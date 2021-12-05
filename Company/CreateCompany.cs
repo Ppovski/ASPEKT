@@ -11,7 +11,7 @@ namespace Application.Company
         public CommandValidation()
         {
             RuleFor(x => CompanyId).NotEmpty();
-            RuleFor(x => CompanyName)..NotEmpty().MaximumLength(255);
+            RuleFor(x => CompanyName).NotEmpty().MaximumLength(255);
 
         }
     }
