@@ -1,0 +1,5 @@
+C:\Users\Ryzen\Desktop\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
